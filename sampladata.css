@@ -1,0 +1,66 @@
+ .container {
+     background-color:#ffe9d6 ;
+     width: 600px;
+     height: 700px;
+     padding: 50px 50px 50px 50px ;
+     margin: 50px 50px 50px 50px ;
+
+
+}
+
+.table {
+     background-color:#ffe9d6 ;
+     width: 600px;
+     height: 700px;
+     padding: 50px 50px 50px 50px ;
+     margin: 50px 50px 50px 50px ;
+
+
+}
+.card-header {
+     background-color: #ff8585;
+     width: 500px;
+     height: 100px;
+     padding: 50px 50px 50px 50px ;
+     margin: 50px 50px 50px 50px ;
+
+
+}
+
+.tabelheading {
+     background-color: cornflowerblue;
+}
+.table table-hover {
+     background-color: #4e8d7c;
+     width: 500px;
+     height: 100px;
+     padding: 50px 50px 50px 50px ;
+     margin: 50px 50px 50px 50px ;
+
+}
+
+.tabledatavalue {
+     white-space: nowrap;
+     width: 500px;
+     text-align: justify;
+     text-size-adjust: auto;
+     text-overflow: clip;
+   }
+   
+/*    .tabledatavalueid {
+     white-space: nowrap;
+     width: 300px;
+     overflow: hidden;
+     text-align: justify;
+     text-overflow: ellipsis;
+   }
+   
+   .tabledatavalueid:hover{
+     overflow: visible;
+     white-space:  normal;
+     position: relative;
+     width: auto;
+     color: white;
+     background-color:#999;
+   }
+    
